@@ -1,0 +1,9 @@
+{
+  "appId": "",
+  "appSecret": "",
+  "domain": "https://open.feishu.cn",
+  "tokenMode": "user_access_token",
+  "tools": "preset.default",
+  "language": "zh",
+  "debug": true
+}
